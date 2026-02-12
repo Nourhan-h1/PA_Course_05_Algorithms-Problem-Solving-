@@ -7,6 +7,7 @@
 */
 
 #include <iostream>
+#include <string>
 using namespace std;
 
 // Reads a positive number from the user (greater than 0)
