@@ -16,6 +16,12 @@
     After Shuffle : 4 2 5 1 3 (Example output)
 */
 
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+
+using namespace std;
+
 Int ReadPositiveNumber(string Message)
 {
     int Number = 0;
